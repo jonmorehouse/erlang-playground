@@ -13,7 +13,7 @@ test(method) ->
 
 simple_test() ->
   ?assertNot(undefined == 1),
-  ?assert(1 > 0).
+  ?assert(2 > 0).
 
 -endif.
 
